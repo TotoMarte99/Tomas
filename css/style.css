@@ -21,7 +21,7 @@ html, body{
     width: 200px;
     height: 280px;
     border-radius: 180px;
-    margin-right: 0px;
+    margin-right: 30px;
     margin-top: 0px;
 }
 .nombre_color{
@@ -81,6 +81,12 @@ strong{
     color: #5c6bc0;
 }
 
+.proyects{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .carta {
     position: relative;
