@@ -5,6 +5,7 @@ html, body{
     box-sizing: border-box;
     font-family: 'Kanit', sans-serif;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 .presentacion{
